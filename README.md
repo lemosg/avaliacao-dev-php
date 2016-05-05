@@ -1,6 +1,6 @@
 # Teste candidato desenvolvedor PHP Pleno/Sênior
 
-Avaliação desenvelvedor PHP Pleno/Sênior para ser feita remotamente e entregue no prazo de até 48 horas.
+Avaliação desenvelvedor PHP Pleno/Sênior para ser feita remotamente.
 
 ## Problema
 
